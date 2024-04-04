@@ -1,3 +1,3 @@
 # coin
 sanacoin
-## sanacoin
+## It is sanacoin
