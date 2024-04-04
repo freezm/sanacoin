@@ -1,0 +1,2 @@
+# coin
+sanacoin
